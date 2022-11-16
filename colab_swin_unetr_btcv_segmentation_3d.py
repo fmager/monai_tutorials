@@ -192,7 +192,7 @@ train_transforms = Compose(
             pixdim=(1.5, 1.5, 2.0),
             mode=("bilinear", "nearest"),
         ),
-        EnsureTyped(keys=["image", "label"], device=device, track_meta=False),
+        EnsureTyped(keys=["image", "label"], device=device, track_meta=True),
         RandCropByPosNegLabeld(
             keys=["image", "label"],
             label_key="label",
@@ -243,7 +243,7 @@ val_transforms = Compose(
             pixdim=(1.5, 1.5, 2.0),
             mode=("bilinear", "nearest"),
         ),
-        EnsureTyped(keys=["image", "label"], device=device, track_meta=False),
+        EnsureTyped(keys=["image", "label"], device=device, track_meta=True),
     ]
 )
 
@@ -287,7 +287,7 @@ val_loader = ThreadDataLoader(val_ds, num_workers=0, batch_size=1)
 # the EnsureTyped transforms allow us to make this distinction
 # on the other hand, set_track_meta is a global API; doing so here makes sure subsequent transforms (i.e., random transforms for training)
 # will be carried out as Tensors, not MetaTensors
-set_track_meta(False)
+set_track_meta(True)
 
 """## Check data shape and visualize"""
 
@@ -313,7 +313,7 @@ plt.imshow(img[0, :, :, slice_map[img_name]].detach().cpu(), cmap="gray")
 plt.subplot(1, 2, 2)
 plt.title("label")
 plt.imshow(label[0, :, :, slice_map[img_name]].detach().cpu())
-plt.show()
+plt.savefig('../results/check_image.png')
 
 """### Create Swin UNETR model
 
@@ -468,7 +468,7 @@ x = [eval_num * (i + 1) for i in range(len(metric_values))]
 y = metric_values
 plt.xlabel("Iteration")
 plt.plot(x, y)
-plt.show()
+plt.savefig('../results/loss.png')
 
 """### Check best model output with the input image and label"""
 
@@ -496,7 +496,7 @@ with torch.no_grad():
     plt.imshow(
         torch.argmax(val_outputs, dim=1).detach().cpu()[0, :, :, slice_map[img_name]]
     )
-    plt.show()
+    plt.savefig('../results/best_model_image.png')
 
 """### Cleanup data directory
 

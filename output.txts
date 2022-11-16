@@ -1,0 +1,68 @@
+MONAI version: 1.0.1
+Numpy version: 1.23.4
+Pytorch version: 1.13.0+cu117
+MONAI flags: HAS_EXT = False, USE_COMPILED = False, USE_META_DICT = False
+MONAI rev id: 8271a193229fe4437026185e218d5b06f7c8ce69
+MONAI __file__: /zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/__init__.py
+
+Optional dependencies:
+Pytorch Ignite version: NOT INSTALLED or UNKNOWN VERSION.
+Nibabel version: 4.0.2
+scikit-image version: 0.19.3
+Pillow version: 9.3.0
+Tensorboard version: 2.11.0
+gdown version: NOT INSTALLED or UNKNOWN VERSION.
+TorchVision version: NOT INSTALLED or UNKNOWN VERSION.
+tqdm version: 4.64.1
+lmdb version: NOT INSTALLED or UNKNOWN VERSION.
+psutil version: NOT INSTALLED or UNKNOWN VERSION.
+pandas version: NOT INSTALLED or UNKNOWN VERSION.
+einops version: 0.6.0
+transformers version: NOT INSTALLED or UNKNOWN VERSION.
+mlflow version: NOT INSTALLED or UNKNOWN VERSION.
+pynrrd version: NOT INSTALLED or UNKNOWN VERSION.
+
+For details about installing the optional dependencies, please visit:
+    https://docs.monai.io/en/latest/installation.html#installing-the-recommended-dependencies
+
+/tmp/tmpbs5s27v3
+2022-11-16 17:19:41,538 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:41,538 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:41,539 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:41,540 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:41,544 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:41,545 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:41,546 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:41,637 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:43,433 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:43,593 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:43,725 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:43,753 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:43,813 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:43,878 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:44,089 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:44,270 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,553 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,580 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,602 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,632 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,643 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,645 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,646 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:48,698 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:49,940 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:49,941 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:50,152 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:50,330 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:50,538 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:50,634 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:50,711 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:50,727 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:52,404 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:52,522 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:52,609 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:52,716 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:53,144 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:53,156 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:53,312 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:19:53,475 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1

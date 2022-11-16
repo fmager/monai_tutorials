@@ -1,0 +1,92 @@
+MONAI version: 1.0.1
+Numpy version: 1.23.4
+Pytorch version: 1.13.0+cu117
+MONAI flags: HAS_EXT = False, USE_COMPILED = False, USE_META_DICT = False
+MONAI rev id: 8271a193229fe4437026185e218d5b06f7c8ce69
+MONAI __file__: /zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/__init__.py
+
+Optional dependencies:
+Pytorch Ignite version: NOT INSTALLED or UNKNOWN VERSION.
+Nibabel version: 4.0.2
+scikit-image version: 0.19.3
+Pillow version: 9.3.0
+Tensorboard version: 2.11.0
+gdown version: NOT INSTALLED or UNKNOWN VERSION.
+TorchVision version: NOT INSTALLED or UNKNOWN VERSION.
+tqdm version: 4.64.1
+lmdb version: NOT INSTALLED or UNKNOWN VERSION.
+psutil version: NOT INSTALLED or UNKNOWN VERSION.
+pandas version: NOT INSTALLED or UNKNOWN VERSION.
+einops version: 0.6.0
+transformers version: NOT INSTALLED or UNKNOWN VERSION.
+mlflow version: NOT INSTALLED or UNKNOWN VERSION.
+pynrrd version: NOT INSTALLED or UNKNOWN VERSION.
+
+For details about installing the optional dependencies, please visit:
+    https://docs.monai.io/en/latest/installation.html#installing-the-recommended-dependencies
+
+/tmp/tmph6hgzmeo
+2022-11-16 17:24:57,414 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:57,415 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:57,415 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:57,416 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:57,417 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:57,418 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:57,418 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:57,419 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,130 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,132 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,441 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,460 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,482 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,591 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,731 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:24:59,948 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,260 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,288 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,289 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,322 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,346 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,347 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,350 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:04,459 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:05,571 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:05,583 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:05,762 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:05,909 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:06,092 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:06,108 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:06,318 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:06,361 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:08,114 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:08,139 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:08,261 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:08,346 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:08,791 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:08,906 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:08,946 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:09,069 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:09,160 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:09,445 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:09,508 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:09,652 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:09,729 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:10,422 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:10,436 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:10,500 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:13,506 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:13,508 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:13,509 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:13,509 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:14,340 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:14,371 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:14,406 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:15,121 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:16,766 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:17,060 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:17,388 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-16 17:25:18,533 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+image shape: (1, 255, 223, 276), label shape: (1, 255, 223, 276)
+Using pretrained self-supervied Swin UNETR backbone weights !
+Model Was Saved ! Current Best Avg. Dice: 0.10795613378286362 Current Avg. Dice: 0.10795613378286362
+train completed, best_metric: 0.1080 at iteration: 100
