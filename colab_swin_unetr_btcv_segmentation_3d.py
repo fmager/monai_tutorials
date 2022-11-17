@@ -313,7 +313,7 @@ plt.imshow(img[0, :, :, slice_map[img_name]].detach().cpu(), cmap="gray")
 plt.subplot(1, 2, 2)
 plt.title("label")
 plt.imshow(label[0, :, :, slice_map[img_name]].detach().cpu())
-plt.savefig('../results/check_image.png')
+plt.savefig('./results/check_image.png')
 
 """### Create Swin UNETR model
 
@@ -432,7 +432,7 @@ def train(global_step, train_loader, dice_val_best, global_step_best):
 
 torch.cuda.empty_cache()
 
-max_iterations = 100 #org 30000
+max_iterations = 10000 #org 30000
 eval_num = 500
 post_label = AsDiscrete(to_onehot=14)
 post_pred = AsDiscrete(argmax=True, to_onehot=14)
@@ -468,7 +468,7 @@ x = [eval_num * (i + 1) for i in range(len(metric_values))]
 y = metric_values
 plt.xlabel("Iteration")
 plt.plot(x, y)
-plt.savefig('../results/loss.png')
+plt.savefig('./results/loss.png')
 
 """### Check best model output with the input image and label"""
 
@@ -496,7 +496,7 @@ with torch.no_grad():
     plt.imshow(
         torch.argmax(val_outputs, dim=1).detach().cpu()[0, :, :, slice_map[img_name]]
     )
-    plt.savefig('../results/best_model_image.png')
+    plt.savefig('./results/best_model_image.png')
 
 """### Cleanup data directory
 
