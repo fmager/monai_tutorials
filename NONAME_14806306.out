@@ -1,0 +1,38 @@
+/bin/bash: ./submit.sh: Permission denied
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 14806306: <NONAME> in cluster <dcc> Exited
+
+Job <NONAME> was submitted from host <gbarlogin1> by user <fmager> in cluster <dcc> at Fri Nov 18 16:03:59 2022
+Job was executed on host(s) <n-62-31-23>, in queue <hpc>, as user <fmager> in cluster <dcc> at Fri Nov 18 16:04:00 2022
+</zhome/1d/3/140899> was used as the home directory.
+</zhome/1d/3/140899/MONAI/monai_tutorials> was used as the working directory.
+Started at Fri Nov 18 16:04:00 2022
+Terminated at Fri Nov 18 16:04:00 2022
+Results reported at Fri Nov 18 16:04:00 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+submit.sh
+------------------------------------------------------------
+
+Exited with exit code 126.
+
+Resource usage summary:
+
+    CPU time :                                   0.30 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     1024.00 MB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   0 sec.
+    Turnaround time :                            1 sec.
+
+The output (if any) is above this job summary.
+

@@ -1,0 +1,85 @@
+Loaded dependency [python3/3.9.11]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.9.11
+
+Loading python3/3.9.11
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loading dataset:   0%|          | 0/24 [00:00<?, ?it/s]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:   4%|▍         | 1/24 [00:08<03:10,  8.27s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  12%|█▎        | 3/24 [00:11<01:09,  3.32s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  38%|███▊      | 9/24 [00:13<00:16,  1.08s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  42%|████▏     | 10/24 [00:14<00:14,  1.06s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  54%|█████▍    | 13/24 [00:14<00:07,  1.51it/s]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  62%|██████▎   | 15/24 [00:15<00:05,  1.58it/s]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  67%|██████▋   | 16/24 [00:19<00:08,  1.10s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  75%|███████▌  | 18/24 [00:19<00:04,  1.26it/s]Loading dataset:  79%|███████▉  | 19/24 [00:19<00:03,  1.43it/s]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  83%|████████▎ | 20/24 [00:21<00:03,  1.26it/s]Loading dataset:  92%|█████████▏| 22/24 [00:21<00:01,  1.75it/s]Loading dataset:  96%|█████████▌| 23/24 [00:22<00:00,  1.75it/s]Loading dataset: 100%|██████████| 24/24 [00:22<00:00,  1.56it/s]Loading dataset: 100%|██████████| 24/24 [00:22<00:00,  1.05it/s]
+Loading dataset:   0%|          | 0/6 [00:00<?, ?it/s]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  17%|█▋        | 1/6 [00:03<00:18,  3.63s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  33%|███▎      | 2/6 [00:05<00:11,  2.79s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  83%|████████▎ | 5/6 [00:06<00:01,  1.07s/it]Loading dataset: 100%|██████████| 6/6 [00:09<00:00,  1.37s/it]Loading dataset: 100%|██████████| 6/6 [00:09<00:00,  1.54s/it]
+Traceback (most recent call last):
+  File "/zhome/1d/3/140899/MONAI/monai_tutorials/colab_swin_unetr_btcv_segmentation_3d.py", line 344, in <module>
+    weight = torch.load("../data/model_swinvit.pt")
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/serialization.py", line 789, in load
+    return _load(opened_zipfile, map_location, pickle_module, **pickle_load_args)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/serialization.py", line 1131, in _load
+    result = unpickler.load()
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/serialization.py", line 1101, in persistent_load
+    load_tensor(dtype, nbytes, key, _maybe_decode_ascii(location))
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/serialization.py", line 1083, in load_tensor
+    wrap_storage=restore_location(storage, location),
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/serialization.py", line 215, in default_restore_location
+    result = fn(storage, location)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/serialization.py", line 182, in _cuda_deserialize
+    device = validate_cuda_device(location)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/serialization.py", line 166, in validate_cuda_device
+    raise RuntimeError('Attempting to deserialize object on a CUDA '
+RuntimeError: Attempting to deserialize object on a CUDA device but torch.cuda.is_available() is False. If you are running on a CPU-only machine, please use torch.load with map_location=torch.device('cpu') to map your storages to the CPU.

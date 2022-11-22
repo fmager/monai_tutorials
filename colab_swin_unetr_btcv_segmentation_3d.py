@@ -142,6 +142,8 @@ import torch
 
 print_config()
 
+print('Current directory: ' + os.getcwd())
+
 """## Setup data directory
 
 You can specify a directory with the `MONAI_DATA_DIRECTORY` environment variable.  
@@ -432,7 +434,7 @@ def train(global_step, train_loader, dice_val_best, global_step_best):
 
 torch.cuda.empty_cache()
 
-max_iterations = 10000 #org 30000
+max_iterations = 20000 #org 30000
 eval_num = 500
 post_label = AsDiscrete(to_onehot=14)
 post_pred = AsDiscrete(argmax=True, to_onehot=14)

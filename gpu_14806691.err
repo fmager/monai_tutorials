@@ -1,0 +1,105 @@
+Loaded module: cuda/11.6
+Loaded dependency [python3/3.9.11]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.9.11
+
+Loading python3/3.9.11
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loading dataset:   0%|          | 0/24 [00:00<?, ?it/s]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:   4%|▍         | 1/24 [00:34<13:04, 34.11s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  38%|███▊      | 9/24 [00:53<01:13,  4.92s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  42%|████▏     | 10/24 [00:53<00:59,  4.27s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  71%|███████   | 17/24 [00:57<00:14,  2.14s/it]Loading dataset:  75%|███████▌  | 18/24 [01:00<00:12,  2.16s/it]Loading dataset:  83%|████████▎ | 20/24 [01:02<00:07,  1.95s/it]Loading dataset:  92%|█████████▏| 22/24 [01:03<00:03,  1.57s/it]Loading dataset:  96%|█████████▌| 23/24 [01:04<00:01,  1.42s/it]Loading dataset: 100%|██████████| 24/24 [01:04<00:00,  2.67s/it]
+Loading dataset:   0%|          | 0/6 [00:00<?, ?it/s]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  17%|█▋        | 1/6 [00:07<00:37,  7.42s/it]pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+Loading dataset:  33%|███▎      | 2/6 [00:10<00:20,  5.07s/it]Loading dataset:  83%|████████▎ | 5/6 [00:11<00:01,  1.70s/it]Loading dataset: 100%|██████████| 6/6 [00:13<00:00,  1.77s/it]Loading dataset: 100%|██████████| 6/6 [00:13<00:00,  2.32s/it]
+Training (X / X Steps) (loss=X.X):   0%|          | 0/24 [00:00<?, ?it/s]Training (X / X Steps) (loss=X.X):   0%|          | 0/24 [00:26<?, ?it/s]
+Traceback (most recent call last):
+  File "/zhome/1d/3/140899/MONAI/monai_tutorials/colab_swin_unetr_btcv_segmentation_3d.py", line 448, in <module>
+    global_step, dice_val_best, global_step_best = train(
+  File "/zhome/1d/3/140899/MONAI/monai_tutorials/colab_swin_unetr_btcv_segmentation_3d.py", line 393, in train
+    logit_map = model(x)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/networks/nets/swin_unetr.py", line 297, in forward
+    hidden_states_out = self.swinViT(x_in, self.normalize)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/networks/nets/swin_unetr.py", line 1011, in forward
+    x1 = self.layers1[0](x0.contiguous())
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/networks/nets/swin_unetr.py", line 876, in forward
+    x = blk(x, attn_mask)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/networks/nets/swin_unetr.py", line 668, in forward
+    x = checkpoint.checkpoint(self.forward_part1, x, mask_matrix)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/utils/checkpoint.py", line 249, in checkpoint
+    return CheckpointFunction.apply(function, preserve, *args)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/utils/checkpoint.py", line 107, in forward
+    outputs = run_function(*args)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/networks/nets/swin_unetr.py", line 608, in forward_part1
+    attn_windows = self.attn(x_windows, mask=attn_mask)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/networks/nets/swin_unetr.py", line 492, in forward
+    attn = q @ k.transpose(-2, -1)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/data/meta_tensor.py", line 249, in __torch_function__
+    ret = super().__torch_function__(func, types, args, kwargs)
+  File "/zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/torch/_tensor.py", line 1278, in __torch_function__
+    ret = func(*args, **kwargs)
+RuntimeError: CUDA error: CUBLAS_STATUS_NOT_SUPPORTED when calling `cublasGemmStridedBatchedExFix( handle, opa, opb, m, n, k, (void*)(&falpha), a, CUDA_R_16F, lda, stridea, b, CUDA_R_16F, ldb, strideb, (void*)(&fbeta), c, CUDA_R_16F, ldc, stridec, num_batches, CUDA_R_32F, CUBLAS_GEMM_DEFAULT_TENSOR_OP)`

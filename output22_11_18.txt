@@ -1,0 +1,132 @@
+MONAI version: 1.0.1
+Numpy version: 1.23.4
+Pytorch version: 1.13.0+cu117
+MONAI flags: HAS_EXT = False, USE_COMPILED = False, USE_META_DICT = False
+MONAI rev id: 8271a193229fe4437026185e218d5b06f7c8ce69
+MONAI __file__: /zhome/1d/3/140899/monai_v1/lib/python3.9/site-packages/monai/__init__.py
+
+Optional dependencies:
+Pytorch Ignite version: NOT INSTALLED or UNKNOWN VERSION.
+Nibabel version: 4.0.2
+scikit-image version: 0.19.3
+Pillow version: 9.3.0
+Tensorboard version: 2.11.0
+gdown version: NOT INSTALLED or UNKNOWN VERSION.
+TorchVision version: NOT INSTALLED or UNKNOWN VERSION.
+tqdm version: 4.64.1
+lmdb version: NOT INSTALLED or UNKNOWN VERSION.
+psutil version: NOT INSTALLED or UNKNOWN VERSION.
+pandas version: NOT INSTALLED or UNKNOWN VERSION.
+einops version: 0.6.0
+transformers version: NOT INSTALLED or UNKNOWN VERSION.
+mlflow version: NOT INSTALLED or UNKNOWN VERSION.
+pynrrd version: NOT INSTALLED or UNKNOWN VERSION.
+
+For details about installing the optional dependencies, please visit:
+    https://docs.monai.io/en/latest/installation.html#installing-the-recommended-dependencies
+
+Current directory: /zhome/1d/3/140899/MONAI/monai_tutorials
+/tmp/tmpn014hyly
+2022-11-18 17:25:41,809 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:41,820 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:41,871 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:41,873 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:41,874 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:41,879 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:41,939 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:41,959 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:44,762 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:45,389 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:46,828 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:47,016 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:47,639 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:47,782 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:48,793 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:25:49,582 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,557 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,605 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,616 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,641 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,666 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,696 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,704 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:00,756 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:02,805 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:03,183 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:03,413 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:05,309 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:05,409 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:06,303 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:06,351 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:06,441 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:13,273 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:13,949 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:14,102 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:14,858 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:16,108 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:16,735 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:16,931 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:17,364 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:18,844 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:19,605 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:19,690 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:20,120 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:20,122 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:23,611 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:23,636 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:23,956 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:30,646 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:30,669 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:30,671 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:30,673 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:32,214 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:32,294 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:32,365 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:33,845 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:37,709 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:38,218 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:38,629 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+2022-11-18 17:26:41,100 - pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+image shape: (1, 255, 223, 276), label shape: (1, 255, 223, 276)
+Using pretrained self-supervied Swin UNETR backbone weights !
+Model Was Saved ! Current Best Avg. Dice: 0.12829695641994476 Current Avg. Dice: 0.12829695641994476
+Model Was Saved ! Current Best Avg. Dice: 0.16428528726100922 Current Avg. Dice: 0.16428528726100922
+Model Was Saved ! Current Best Avg. Dice: 0.2756214141845703 Current Avg. Dice: 0.2756214141845703
+Model Was Saved ! Current Best Avg. Dice: 0.38293954730033875 Current Avg. Dice: 0.38293954730033875
+Model Was Saved ! Current Best Avg. Dice: 0.4877683222293854 Current Avg. Dice: 0.4877683222293854
+Model Was Saved ! Current Best Avg. Dice: 0.5557325482368469 Current Avg. Dice: 0.5557325482368469
+Model Was Saved ! Current Best Avg. Dice: 0.6001200079917908 Current Avg. Dice: 0.6001200079917908
+Model Was Saved ! Current Best Avg. Dice: 0.620734453201294 Current Avg. Dice: 0.620734453201294
+Model Was Not Saved ! Current Best Avg. Dice: 0.620734453201294 Current Avg. Dice: 0.6114254593849182
+Model Was Saved ! Current Best Avg. Dice: 0.6458644270896912 Current Avg. Dice: 0.6458644270896912
+Model Was Saved ! Current Best Avg. Dice: 0.6814302802085876 Current Avg. Dice: 0.6814302802085876
+Model Was Saved ! Current Best Avg. Dice: 0.6906445622444153 Current Avg. Dice: 0.6906445622444153
+Model Was Saved ! Current Best Avg. Dice: 0.7021923661231995 Current Avg. Dice: 0.7021923661231995
+Model Was Saved ! Current Best Avg. Dice: 0.7433009743690491 Current Avg. Dice: 0.7433009743690491
+Model Was Saved ! Current Best Avg. Dice: 0.7702270150184631 Current Avg. Dice: 0.7702270150184631
+Model Was Saved ! Current Best Avg. Dice: 0.7955107092857361 Current Avg. Dice: 0.7955107092857361
+Model Was Not Saved ! Current Best Avg. Dice: 0.7955107092857361 Current Avg. Dice: 0.7902066111564636
+Model Was Not Saved ! Current Best Avg. Dice: 0.7955107092857361 Current Avg. Dice: 0.7899072170257568
+Model Was Saved ! Current Best Avg. Dice: 0.8007340431213379 Current Avg. Dice: 0.8007340431213379
+Model Was Saved ! Current Best Avg. Dice: 0.8161681294441223 Current Avg. Dice: 0.8161681294441223
+Model Was Not Saved ! Current Best Avg. Dice: 0.8161681294441223 Current Avg. Dice: 0.8083096146583557
+Model Was Not Saved ! Current Best Avg. Dice: 0.8161681294441223 Current Avg. Dice: 0.8103939890861511
+Model Was Not Saved ! Current Best Avg. Dice: 0.8161681294441223 Current Avg. Dice: 0.8112006187438965
+Model Was Not Saved ! Current Best Avg. Dice: 0.8161681294441223 Current Avg. Dice: 0.8059207797050476
+Model Was Saved ! Current Best Avg. Dice: 0.8170247077941895 Current Avg. Dice: 0.8170247077941895
+Model Was Saved ! Current Best Avg. Dice: 0.8224498629570007 Current Avg. Dice: 0.8224498629570007
+Model Was Not Saved ! Current Best Avg. Dice: 0.8224498629570007 Current Avg. Dice: 0.8144230246543884
+Model Was Not Saved ! Current Best Avg. Dice: 0.8224498629570007 Current Avg. Dice: 0.8107604384422302
+Model Was Not Saved ! Current Best Avg. Dice: 0.8224498629570007 Current Avg. Dice: 0.7985627055168152
+Model Was Not Saved ! Current Best Avg. Dice: 0.8224498629570007 Current Avg. Dice: 0.8197121620178223
+Model Was Not Saved ! Current Best Avg. Dice: 0.8224498629570007 Current Avg. Dice: 0.8087649345397949
+Model Was Not Saved ! Current Best Avg. Dice: 0.8224498629570007 Current Avg. Dice: 0.7967681884765625
+Model Was Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.8234818577766418
+Model Was Not Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.8204732537269592
+Model Was Not Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.8180659413337708
+Model Was Not Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.8134126663208008
+Model Was Not Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.814471960067749
+Model Was Not Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.8232188820838928
+Model Was Not Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.803558886051178
+Model Was Not Saved ! Current Best Avg. Dice: 0.8234818577766418 Current Avg. Dice: 0.822761595249176
+train completed, best_metric: 0.8235 at iteration: 16500
